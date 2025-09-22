@@ -7,7 +7,7 @@ This is a Streamlit web app that uses a ResNet-18 model trained on CIFAR-10 to c
 
 ->Demo
 
-Link
+https://image-classification-app-6tffrdxkekmdckh42jiz6e.streamlit.app/
 
 
 ->Features:
